@@ -49,7 +49,7 @@ SpendWise/
 ### 1) Clone the repository
 ```bash
 git clone https://github.com/mk0910-afk/typeface-assignment
-cd Expense-Tracker
+cd SpendWise
 ```
 
 ### 2) Backend setup
